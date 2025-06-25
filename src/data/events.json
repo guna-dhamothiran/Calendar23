@@ -1,0 +1,99 @@
+
+[
+  {
+    "id": "1",
+    "title": "Team Standup",
+    "date": "2025-06-24",
+    "time": "09:00",
+    "duration": 30,
+    "category": "meeting",
+    "description": "Daily team sync meeting",
+    "location": "Conference Room A"
+  },
+  {
+    "id": "2",
+    "title": "Project Deadline",
+    "date": "2025-06-25",
+    "time": "17:00",
+    "duration": 60,
+    "category": "deadline",
+    "description": "Submit quarterly report"
+  },
+  {
+    "id": "3",
+    "title": "Client Presentation",
+    "date": "2025-06-26",
+    "time": "14:00",
+    "duration": 90,
+    "category": "work",
+    "description": "Present new product features",
+    "location": "Main Auditorium",
+    "attendees": ["john@company.com", "sarah@client.com"]
+  },
+  {
+    "id": "4",
+    "title": "Doctor Appointment",
+    "date": "2025-06-24",
+    "time": "15:00",
+    "duration": 45,
+    "category": "personal",
+    "description": "Annual checkup"
+  },
+  {
+    "id": "5",
+    "title": "Code Review",
+    "date": "2025-06-27",
+    "time": "10:30",
+    "duration": 60,
+    "category": "work",
+    "description": "Review PR submissions"
+  },
+  {
+    "id": "6",
+    "title": "Marketing Strategy Meeting",
+    "date": "2025-06-28",
+    "time": "11:00",
+    "duration": 120,
+    "category": "meeting",
+    "description": "Q3 marketing planning session",
+    "location": "Boardroom"
+  },
+  {
+    "id": "7",
+    "title": "Lunch with Sarah",
+    "date": "2025-06-29",
+    "time": "12:30",
+    "duration": 60,
+    "category": "personal",
+    "description": "Catch up over lunch"
+  },
+  {
+    "id": "8",
+    "title": "Sprint Planning",
+    "date": "2025-06-30",
+    "time": "09:30",
+    "duration": 90,
+    "category": "meeting",
+    "description": "Plan next sprint backlog",
+    "location": "Dev Room"
+  },
+  {
+    "id": "9",
+    "title": "Product Demo",
+    "date": "2025-07-01",
+    "time": "16:00",
+    "duration": 45,
+    "category": "work",
+    "description": "Demo new features to stakeholders"
+  },
+  {
+    "id": "10",
+    "title": "Team Building Event",
+    "date": "2025-07-02",
+    "time": "18:00",
+    "duration": 180,
+    "category": "personal",
+    "description": "Office team building activities",
+    "location": "Recreation Center"
+  }
+]
